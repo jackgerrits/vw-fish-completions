@@ -6,3 +6,7 @@
 ```sh
 $ fisher install jackgerrits/vw-fish-completions
 ```
+
+## Demo
+
+[![asciicast](https://asciinema.org/a/ARQKvDlTNswv5a2OXhxuiuHfk.svg)](https://asciinema.org/a/ARQKvDlTNswv5a2OXhxuiuHfk)
