@@ -1,5 +1,5 @@
 # vw-fish-completions
-Adds [fish](https://fishshell.com/) completions for all of [Vowpal Wabbit](https://vowpalwabbit.org/)'s command line options. Start typing `vw --` and hit tab in fish to see all available options.
+[Fish](https://fishshell.com/) plugins which adds completions for all of [Vowpal Wabbit](https://vowpalwabbit.org/)'s command line options. Start typing `vw --` and hit tab in Fish to see all available options.
 
 ## Installation
 
